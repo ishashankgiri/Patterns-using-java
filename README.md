@@ -1,1 +1,1 @@
-# Patterns-using-java
+hollow rectangle using '+' 
